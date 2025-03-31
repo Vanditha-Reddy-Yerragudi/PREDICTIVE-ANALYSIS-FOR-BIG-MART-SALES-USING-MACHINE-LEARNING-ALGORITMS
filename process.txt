@@ -1,0 +1,7 @@
+Executing or running this web page
+
+--> pip install streamlit
+
+--> then run this file with below code 
+
+python -m streamlit run mainweb.py
